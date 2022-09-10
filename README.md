@@ -1,0 +1,2 @@
+# Project-and-Bug-Management-System
+It's my own Project I made it using ROR stack. It's a complete Website in which 3 types of people are signup Manager , Developers and Test Engineers . Manager Create a Project than assgn a project to many Users (DEVELOPER AND TEST ENGINEER ) Developer and Test Engineer only show those  Project that they assigned by Manager that Developer have a power to fix bug and Test Engineer have authority to add and delete bugs 
